@@ -1,0 +1,19 @@
+.textRed{
+    color: red;
+}
+
+.textGreen{
+    color: green;
+}
+
+.teamText{
+    text-align: center;
+}
+
+.content{
+    display: flex;
+    gap: 50px;
+    padding: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
